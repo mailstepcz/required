@@ -1,4 +1,4 @@
-module github.com/mailstepcz/required
+module github.com/mailstepcz/validate
 
 go 1.22.0
 
